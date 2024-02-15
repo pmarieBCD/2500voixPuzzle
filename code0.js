@@ -191,7 +191,7 @@ gdjs.GameSceneCode.eventsList2(runtimeScene);} //Subevents end.
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(8808572);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9352892);
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("obj_puzzle_piece"), gdjs.GameSceneCode.GDobj_9595puzzle_9595pieceObjects2);
@@ -211,7 +211,7 @@ gdjs.GameSceneCode.eventsList4(runtimeScene);} //End of subevents
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(8812612);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9355844);
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Assets\\sounds\\puzzle_pick.wav", 1, false, 100, 1);
@@ -286,7 +286,7 @@ if (true)
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(8794228);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9361404);
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Assets\\sounds\\269194_puzzles_solved.wav", 1, false, 100, 1);
@@ -446,7 +446,7 @@ gdjs.GameSceneCode.eventsList10(runtimeScene);} //End of subevents
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(8801572);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9349420);
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("obj_puzzle_holder"), gdjs.GameSceneCode.GDobj_9595puzzle_9595holderObjects2);
